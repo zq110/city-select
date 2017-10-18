@@ -1,0 +1,23 @@
+{
+  "name": "city-select",
+  "version": "1.0.0",
+  "description": "city-Select component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iysf/city-select.git"
+  },
+  "keywords": [
+    "省级联动"
+  ],
+  "author": "杨少峰",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iysf/city-select/issues"
+  },
+  "homepage": "https://github.com/iysf/city-select#readme"
+}
